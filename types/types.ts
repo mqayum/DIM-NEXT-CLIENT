@@ -32,8 +32,8 @@ export interface IUserObj {
 export type TUploadImage = File|null|undefined
 
 export interface SignUpForm {
-    firstName: string,
-    lastName: string,
+    firstname: string,
+    lastname: string,
     username: string,
     phone: string,
     email: string,

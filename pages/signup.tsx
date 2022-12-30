@@ -11,8 +11,8 @@ import {setAuth} from "../store/authSlice";
 const Signup = () => {
     const [signup, {data, error, status}] = useSignUpMutation();
     const [state, setState] = useState({
-        firstName: "",
-        lastName: "",
+        firstname: "",
+        lastname: "",
         username: "",
         phone: "",
         email: "",
@@ -50,13 +50,13 @@ const Signup = () => {
                             <label className="label">
                                 <span className="label-text">First Name</span>
                             </label>
-                            <input type="text" placeholder="first name" className="input input-bordered" name="firstName" id="firstName" value={state.firstName} onChange={handleChange} />
+                            <input type="text" placeholder="first name" className="input input-bordered" name="firstName" id="firstName" value={state.firstname} onChange={handleChange} />
                         </div>
                         <div className="form-control">
                             <label className="label">
                                 <span className="label-text">Last Name</span>
                             </label>
-                            <input type="text" placeholder="last name" className="input input-bordered" name="lastName" id="lastName" value={state.lastName} onChange={handleChange} />
+                            <input type="text" placeholder="last name" className="input input-bordered" name="lastName" id="lastName" value={state.lastname} onChange={handleChange} />
                         </div>
                     </div>
 
