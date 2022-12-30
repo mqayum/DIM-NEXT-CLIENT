@@ -1,0 +1,26 @@
+[
+  {
+    "categoryName": "Icons",
+    "categoryImage": "http://localhost:3000/images/categories/icon.png"
+  },
+  {
+    "categoryName": "Posts",
+    "categoryImage": "http://localhost:3000/images/categories/post.png"
+  },
+  {
+    "categoryName": "Fonts",
+    "categoryImage": "http://localhost:3000/images/categories/font.png"
+  },
+  {
+    "categoryName": "Art",
+    "categoryImage": "http://localhost:3000/images/categories/art.png"
+  },
+  {
+    "categoryName": "Templates",
+    "categoryImage": "http://localhost:3000/images/categories/layout.png"
+  },
+  {
+    "categoryName": "Brushes",
+    "categoryImage": "http://localhost:3000/images/categories/brush.png"
+  }
+]

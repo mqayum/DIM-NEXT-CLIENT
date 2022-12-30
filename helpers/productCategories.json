@@ -1,0 +1,26 @@
+[
+  {
+    "categoryName": "Cups",
+    "categoryImage": "http://localhost:3000/images/categories/cup.png"
+  },
+  {
+    "categoryName": "Shirts",
+    "categoryImage": "http://localhost:3000/images/categories/shirt.webp"
+  },
+  {
+    "categoryName": "Bottles",
+    "categoryImage": "http://localhost:3000/images/categories/bottle.jpg"
+  },
+  {
+    "categoryName": "Keychains",
+    "categoryImage": "http://localhost:3000/images/categories/keychain.png"
+  },
+  {
+    "categoryName": "Caps",
+    "categoryImage": "http://localhost:3000/images/categories/cap.jpg"
+  },
+  {
+    "categoryName": "Pillows",
+    "categoryImage": "http://localhost:3000/images/categories/pillow.png"
+  }
+]
