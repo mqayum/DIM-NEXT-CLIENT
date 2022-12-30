@@ -1,26 +1,26 @@
 [
   {
     "categoryName": "Cups",
-    "categoryImage": "images/categories/cup.png"
+    "categoryImage": "/images/categories/cup.png"
   },
   {
     "categoryName": "Shirts",
-    "categoryImage": "images/categories/shirt.webp"
+    "categoryImage": "/images/categories/shirt.webp"
   },
   {
     "categoryName": "Bottles",
-    "categoryImage": "images/categories/bottle.jpg"
+    "categoryImage": "/images/categories/bottle.jpg"
   },
   {
     "categoryName": "Keychains",
-    "categoryImage": "images/categories/keychain.png"
+    "categoryImage": "/images/categories/keychain.png"
   },
   {
     "categoryName": "Caps",
-    "categoryImage": "images/categories/cap.jpg"
+    "categoryImage": "/images/categories/cap.jpg"
   },
   {
     "categoryName": "Pillows",
-    "categoryImage": "images/categories/pillow.png"
+    "categoryImage": "/images/categories/pillow.png"
   }
 ]
