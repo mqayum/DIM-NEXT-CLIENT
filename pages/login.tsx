@@ -41,13 +41,13 @@ const Login = () => {
                         sameSite: true,
                     })
                     dispatch(setAuth(true))
-                    // dispatch(setLoggedInUser(response.data.user))
                     router.push("/")
                 }
             }
         }
         catch (e) {
-            toast.error("Something is Wrong");
+            // @ts-ignore
+            toast.error("Error: "+e.data.message);
             console.log(e)
         }
     }
