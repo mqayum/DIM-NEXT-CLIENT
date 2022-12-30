@@ -50,13 +50,13 @@ const Signup = () => {
                             <label className="label">
                                 <span className="label-text">First Name</span>
                             </label>
-                            <input type="text" placeholder="first name" className="input input-bordered" name="firstName" id="firstName" value={state.firstname} onChange={handleChange} />
+                            <input type="text" placeholder="first name" className="input input-bordered" name="firstname" id="firstname" value={state.firstname} onChange={handleChange} />
                         </div>
                         <div className="form-control">
                             <label className="label">
                                 <span className="label-text">Last Name</span>
                             </label>
-                            <input type="text" placeholder="last name" className="input input-bordered" name="lastName" id="lastName" value={state.lastname} onChange={handleChange} />
+                            <input type="text" placeholder="last name" className="input input-bordered" name="lastname" id="lastname" value={state.lastname} onChange={handleChange} />
                         </div>
                     </div>
 
