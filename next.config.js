@@ -9,6 +9,10 @@ const nextConfig = {
         hostname: 'placeimg.com',
       },
       {
+        protocol: 'https',
+        hostname: 'dim-next-client.vercel.app',
+      },
+      {
         protocol: 'http',
         hostname: 'localhost',
         port: '3000'
