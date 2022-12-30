@@ -22,6 +22,10 @@ const nextConfig = {
         hostname: 'localhost',
         port: '9999'
       },
+      {
+        protocol: 'https',
+        hostname: 'dim-next-server.up.railway.app',
+      },
     ],
   },
 }
