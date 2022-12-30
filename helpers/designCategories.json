@@ -1,26 +1,26 @@
 [
   {
     "categoryName": "Icons",
-    "categoryImage": "/images/categories/icon.png"
+    "categoryImage": "images/categories/icon.png"
   },
   {
     "categoryName": "Posts",
-    "categoryImage": "/images/categories/post.png"
+    "categoryImage": "images/categories/post.png"
   },
   {
     "categoryName": "Fonts",
-    "categoryImage": "/images/categories/font.png"
+    "categoryImage": "images/categories/font.png"
   },
   {
     "categoryName": "Art",
-    "categoryImage": "/images/categories/art.png"
+    "categoryImage": "images/categories/art.png"
   },
   {
     "categoryName": "Templates",
-    "categoryImage": "/images/categories/layout.png"
+    "categoryImage": "images/categories/layout.png"
   },
   {
     "categoryName": "Brushes",
-    "categoryImage": "/images/categories/brush.png"
+    "categoryImage": "images/categories/brush.png"
   }
 ]
